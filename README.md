@@ -1,1 +1,1 @@
-creating simple_shell
+task for simple_shell
